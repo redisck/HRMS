@@ -44,3 +44,7 @@
 ![](https://github.com/HRMS-product/HRMS/blob/master/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E7%BB%84%E7%BB%87%E6%9C%BA%E6%9E%84%E7%AE%A1%E7%90%86.jpg)
 #薪资管理
 ![](https://github.com/HRMS-product/HRMS/blob/master/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E8%96%AA%E8%B5%84%E7%AE%A1%E7%90%86.jpg)
+###时序图
+
+#数据库模型
+#项目结构图
