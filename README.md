@@ -36,10 +36,11 @@
 #培训管理
 ![](https://github.com/HRMS-product/HRMS/blob/master/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E5%9F%B9%E8%AE%AD%E7%AE%A1%E7%90%86.jpg)
 #登录注册管理
-![](https://github.com/HRMS-product/HRMS/blob/master/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E4%BA%BA%E4%BA%8B%E7%AE%A1%E7%90%86.jpg)
-#人事管理
+![](https://github.com/HRMS-product/HRMS/blob/master/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E7%99%BB%E5%BD%95.jpg)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E6%B3%A8%E5%86%8C.jpg)
+#系统管理员
 ![](https://github.com/HRMS-product/HRMS/blob/master/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E4%BA%BA%E4%BA%8B%E7%AE%A1%E7%90%86.jpg)
 #组织机构管理
-![](https://github.com/HRMS-product/HRMS/blob/master/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E4%BA%BA%E4%BA%8B%E7%AE%A1%E7%90%86.jpg)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E7%BB%84%E7%BB%87%E6%9C%BA%E6%9E%84%E7%AE%A1%E7%90%86.jpg)
 #薪资管理
-![](https://github.com/HRMS-product/HRMS/blob/master/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E4%BA%BA%E4%BA%8B%E7%AE%A1%E7%90%86.jpg)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E8%96%AA%E8%B5%84%E7%AE%A1%E7%90%86.jpg)
