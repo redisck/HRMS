@@ -10,11 +10,6 @@
 ****
 ## 目录
 * [人力资源管理系统建模](#人力资源管理系统建模)
-    * 用例模型图
-    * 活动图
-    * 时序图
-    * 数据库截图
-    * 项目结构图
 * [ff](#标题)
 * [文本](#文本)
 * [文本](#文本)
@@ -27,6 +22,10 @@
 [查看活动图请点击此链接](https://github.com/HRMS-product/HRMS/tree/master/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E6%B4%BB%E5%8A%A8%E5%9B%BE)
 ### 时序图
 [查看活动图请点击此链接](https://github.com/HRMS-product/HRMS/tree/master/%E6%B4%BB%E5%8A%A8%E5%9B%BE/%E6%B4%BB%E5%8A%A8%E5%9B%BE)
+### 数据库模型图
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/mysql/mysql.png)
+### 项目结构图
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/hrmsimg/leitu2.png)
+### 类图及其说明
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/hrmsimg/leitu2.png)
 
-#数据库模型
-#项目结构图
