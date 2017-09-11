@@ -20,3 +20,6 @@
 * [文本](#文本)
 
 ### 人力资源管理系统建模
+------
+### 用例模型图
+![](https://github.com/HRMS-product/HRMS/blob/master/%E7%94%A8%E4%BE%8B%E5%9B%BE/%E5%9F%B9%E8%AE%ADusecase.png)
