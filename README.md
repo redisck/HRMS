@@ -25,7 +25,10 @@
 ### 数据库模型图
 ![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/mysql/mysql.png)
 ### 项目结构图
-![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/hrmsimg/leitu2.png)
-### 类图及其说明
-![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/hrmsimg/leitu2.png)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/hrmsimg/jiegou.png)
+### 类图
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/hrmsimg/leitu1.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/hrmsimg/leitu2.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/hrmsimg/%E6%8D%95leitu3.PNG)
+
 
