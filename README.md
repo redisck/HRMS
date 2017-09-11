@@ -34,4 +34,45 @@
 
 ### 项目截图展示
 ------
+### 部门管理
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/1.1.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/1.1.1.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/1.1.2.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/1.2.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/1.2.1.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/1.2.2.PNG)
+### 职员管理
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/2.1.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/2.1.1.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/2.1.2.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/2.2.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/2.2.1.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/2.2.2.PNG)
+### 奖惩管理
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/3.1.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/3.1.1.PNG)
+### 薪资管理
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/4.1.1.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/4.1.2.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/4.1.3.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/4.2.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/4.3.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/4.3.1.PNG)
+### 培训管理
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/5.1.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/5.11.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/5.12.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/5.21.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/5.22.PNG)
+### 招聘管理
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/6.1.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/6.2.PNG)
 
+### 报表管理
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/7.1.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/7.2.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/7.3.PNG)
+### 系统管理
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/8.1.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/8.2.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/8.3.PNG)
