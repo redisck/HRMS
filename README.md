@@ -7,7 +7,10 @@
 ### E-mail:2435281559@qq.com
 ****
 ****
-由于是使用Git不熟的原因，导致项目的很多部分上传失败，无法新建文件夹push到远程仓库，被迫使用github客户端将所有的项目重新上传一遍，将之前的版本删除，重新整理了一遍思路和项目说明
+由于是使用Git不熟的原因，导致项目的很多部分上传失败，无法新建文件夹push到远程仓库，被迫使用github客户端将所有的项目重新上传一遍，将之前的版本删除，重新整理了一遍思路和项目说明.
+****
+****
+# 项目演示地址：www.qxbhwh.com:8080/HRMS(用户名：admin密码：123）
 ****
 ## 目录
 * [人力资源管理系统建模](#人力资源管理系统建模)
@@ -49,15 +52,15 @@
 ![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/2.2.1.PNG)
 ![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/2.2.2.PNG)
 ### 奖惩管理
-![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/3.1.PNG)
-![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/3.1.1.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/3.1.JPG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/3.1.1.JPG)
 ### 薪资管理
-![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/4.1.1.PNG)
-![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/4.1.2.PNG)
-![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/4.1.3.PNG)
-![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/4.2.PNG)
-![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/4.3.PNG)
-![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/4.3.1.PNG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/4.1.1.JPG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/4.1.2.JPG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/4.1.3.JPG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/4.2.JPG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/4.3.JPG)
+![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/4.3.1.JPG)
 ### 培训管理
 ![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/5.1.PNG)
 ![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/5.11.PNG)
@@ -68,11 +71,11 @@
 ![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/6.1.PNG)
 ![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/6.2.PNG)
 
-### 报表管理
+### 系统管理
 ![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/7.1.PNG)
 ![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/7.2.PNG)
 ![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/7.3.PNG)
-### 系统管理
+### 报表管理
 ![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/8.1.PNG)
 ![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/8.2.PNG)
 ![](https://github.com/HRMS-product/HRMS/blob/master/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/img/8.3.PNG)
