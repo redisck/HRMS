@@ -22,4 +22,17 @@
 ### 人力资源管理系统建模
 ------
 ### 用例模型图
+#培训管理
 ![](https://github.com/HRMS-product/HRMS/blob/master/%E7%94%A8%E4%BE%8B%E5%9B%BE/%E5%9F%B9%E8%AE%ADusecase.png)
+#招聘管理
+![](https://github.com/HRMS-product/HRMS/blob/master/%E7%94%A8%E4%BE%8B%E5%9B%BE/%E6%8B%9B%E8%81%98usecase.png)
+#组织管理
+![](https://github.com/HRMS-product/HRMS/blob/master/组织usecase.png)
+#招聘
+![](https://github.com/HRMS-product/HRMS/blob/master/%E7%94%A8%E4%BE%8B%E5%9B%BE/%E6%8B%9B%E8%81%98usecase.png)
+#招聘
+![](https://github.com/HRMS-product/HRMS/blob/master/%E7%94%A8%E4%BE%8B%E5%9B%BE/%E6%8B%9B%E8%81%98usecase.png)
+#招聘
+![](https://github.com/HRMS-product/HRMS/blob/master/%E7%94%A8%E4%BE%8B%E5%9B%BE/%E6%8B%9B%E8%81%98usecase.png)
+#招聘
+![](https://github.com/HRMS-product/HRMS/blob/master/%E7%94%A8%E4%BE%8B%E5%9B%BE/%E6%8B%9B%E8%81%98usecase.png)
